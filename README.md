@@ -1,1 +1,1 @@
-# todolist
+The To-Do List Application is a simple and interactive web app that helps users manage their daily tasks. Users can add, mark as completed, and delete tasks. The application saves the tasks in the browser's local storage so that the tasks persist even after the page is reloaded.
